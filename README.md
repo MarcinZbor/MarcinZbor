@@ -14,5 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h2> My stack and tools</h2>
-![JavaScript-logo](https://github.com/MarcinZbor/MarcinZbor/assets/113549466/93d9246b-3d84-4da4-9d4a-1b7c65c5c880)[1]
+
