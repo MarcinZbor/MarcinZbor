@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **ReactProject**
 
-- 🌱 I’m currently learning **React, TypeScript, Redux, Python**
+- 🌱 I’m currently learning **TypeScript, Redux, Python, Node.JS, Express, Mongo**
 
 - 📫 How to reach me **marcinzb@gazeta.pl**
 
