@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **marcinzb@gazeta.pl**
 
-- - 📫 How to reach me **https://marcinzbor.github.io/Portfolio2/**
+- 📫 How to reach me **https://marcinzbor.github.io/Portfolio2/**
 
 
 <h3 align="left">Connect with me:</h3>
